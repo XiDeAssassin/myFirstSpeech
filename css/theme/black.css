@@ -10,6 +10,20 @@ section.has-light-background, section.has-light-background h1, section.has-light
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
+ @font-face {
+    font-family:'dengxian';
+    src:url('./lib/font/dengxian/deng.ttf')format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'dengxian';
+    src:url('./lib/font/dengxian/dengb.ttf')format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 body {
   background: #222;
   background-color: #222; }
@@ -41,7 +55,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "dengxian","Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
