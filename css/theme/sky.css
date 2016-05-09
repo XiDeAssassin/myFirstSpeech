@@ -22,8 +22,8 @@ body {
   background-color: #f7fbfc; }
 
 .reveal {
-  font-family: "Open Sans", sans-serif;
-  font-size: 36px;
+  font-family: "dengxian","Open Sans", sans-serif;
+  font-size: 38px;
   font-weight: normal;
   color: #333; }
 
@@ -48,7 +48,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "dengxian","Source Sans Pro", Helvetica, sans-serif;
   font-weight: bold;
   line-height: 1.2;
   letter-spacing: -0.05em;
